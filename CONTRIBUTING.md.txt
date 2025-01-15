@@ -1,0 +1,20 @@
+# Contributing to [Your Project Name]
+
+We welcome contributions to the project! To get started, please review the following guidelines.
+
+## How to Contribute
+
+1. **Fork** the repository.
+2. **Clone** your fork to your local machine.
+3. Create a new branch: `git checkout -b feature-name`
+4. **Make your changes** and commit them: `git commit -m "Add feature"`
+5. **Push** your changes to your fork: `git push origin feature-name`
+6. Open a **pull request** to the main repository.
+
+## Reporting Issues
+
+If you find a bug or want to suggest an improvement, please open an issue in the repository.
+
+## Code of Conduct
+
+Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming and respectful environment for all contributors.
